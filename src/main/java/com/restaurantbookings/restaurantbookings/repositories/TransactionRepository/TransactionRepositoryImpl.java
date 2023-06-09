@@ -1,0 +1,4 @@
+package com.restaurantbookings.restaurantbookings.repositories.TransactionRepository;
+
+public class TransactionRepositoryImpl implements TransactionRepositoryCustom {
+}
